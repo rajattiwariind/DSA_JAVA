@@ -35,6 +35,7 @@ public class threeDimen {
                 }
                 System.out.println();
             }
+            System.out.println();
         }
     }
 }
